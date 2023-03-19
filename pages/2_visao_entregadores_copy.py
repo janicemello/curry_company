@@ -12,7 +12,7 @@ from streamlit_folium import folium_static
 
 
 #import dataset
-df = pd.read_csv('food_delivery_train.csv')
+df = pd.read_csv(r'food_delivery_train.csv')
 #print(df)
 #======================
 #      FUNÇÕES 
